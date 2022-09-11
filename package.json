@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "description": "Some json server apis for several projects",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Tanvir Anzum",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
