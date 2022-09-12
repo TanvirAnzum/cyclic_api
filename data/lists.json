@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1662970098904",
+    "title": "Pending Recruitments",
+    "createdAt": "9/12/2022, 8:08:18 AM",
+    "boardId": "1662969754688"
+  },
+  {
+    "id": "1662970147102",
+    "title": "Upcoming Recruitments",
+    "createdAt": "9/12/2022, 8:09:07 AM",
+    "boardId": "1662969754688"
+  },
+  {
+    "id": "1662970233325",
+    "title": "Pending tasks",
+    "createdAt": "9/12/2022, 8:10:33 AM",
+    "boardId": "1662969901299"
+  },
+  {
+    "id": "1662970408711",
+    "title": "Completed tasks",
+    "createdAt": "9/12/2022, 8:13:28 AM",
+    "boardId": "1662969901299"
+  },
+  {
+    "id": "1662970439353",
+    "title": "Current Tasks",
+    "createdAt": "9/12/2022, 8:13:59 AM",
+    "boardId": "1662969901299"
+  }
+]
